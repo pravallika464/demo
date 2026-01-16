@@ -1,2 +1,1 @@
-hello everone
-namste 1st
+hello git
